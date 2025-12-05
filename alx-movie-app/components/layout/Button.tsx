@@ -6,4 +6,4 @@ const Button: React.FC = () => {
 }
 
 export default Button;
-'@ | Out-File -FilePath "components/layouts/Button.tsx" -Encoding UTF8
+'@ | Out-File -FilePath "components/layout/Button.tsx" -Encoding UTF8 -Force

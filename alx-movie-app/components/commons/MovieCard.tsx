@@ -6,4 +6,4 @@ const MovieCard: React.FC = () => {
 }
 
 export default MovieCard;
-'@ | Out-File -FilePath "components/commons/MovieCard.tsx" -Encoding UTF8
+'@ | Out-File -FilePath "components/commons/MovieCard.tsx" -Encoding UTF8 -Force
